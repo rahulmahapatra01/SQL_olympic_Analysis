@@ -1,0 +1,65 @@
+edition,edition_id,year,city,country_noc
+1896 Summer Olympics,1,1896,Athina,GRE
+1900 Summer Olympics,2,1900,Paris,FRA
+1904 Summer Olympics,3,1904,St. Louis,USA
+1908 Summer Olympics,5,1908,London,GBR
+1912 Summer Olympics,6,1912,Stockholm,SWE
+1916 Summer Olympics,50,1916,Berlin,GER
+1920 Summer Olympics,7,1920,Antwerpen,BEL
+1924 Summer Olympics,8,1924,Paris,FRA
+1928 Summer Olympics,9,1928,Amsterdam,NED
+1932 Summer Olympics,10,1932,Los Angeles,USA
+1936 Summer Olympics,11,1936,Berlin,GER
+1940 Summer Olympics,51,1940,Helsinki,FIN
+1944 Summer Olympics,52,1944,London,GBR
+1948 Summer Olympics,12,1948,London,GBR
+1952 Summer Olympics,13,1952,Helsinki,FIN
+1956 Summer Olympics,14,1956,Melbourne,AUS
+1960 Summer Olympics,15,1960,Roma,ITA
+1964 Summer Olympics,16,1964,Tokyo,JPN
+1968 Summer Olympics,17,1968,Ciudad de México,MEX
+1972 Summer Olympics,18,1972,München,FRG
+1976 Summer Olympics,19,1976,Montréal,CAN
+1980 Summer Olympics,20,1980,Moskva,URS
+1984 Summer Olympics,21,1984,Los Angeles,USA
+1988 Summer Olympics,22,1988,Seoul,KOR
+1992 Summer Olympics,23,1992,Barcelona,ESP
+1996 Summer Olympics,24,1996,Atlanta,USA
+2000 Summer Olympics,25,2000,Sydney,AUS
+2004 Summer Olympics,26,2004,Athina,GRE
+2008 Summer Olympics,53,2008,Beijing,CHN
+2012 Summer Olympics,54,2012,London,GBR
+2016 Summer Olympics,59,2016,Rio de Janeiro,BRA
+2020 Summer Olympics,61,2020,Tokyo,JPN
+2024 Summer Olympics,63,2024,Paris,FRA
+2028 Summer Olympics,64,2028,Los Angeles,USA
+2032 Summer Olympics,372,2032,Brisbane,AUS
+1924 Winter Olympics,29,1924,Chamonix,FRA
+1928 Winter Olympics,30,1928,Sankt Moritz,SUI
+1932 Winter Olympics,31,1932,Lake Placid,USA
+1936 Winter Olympics,32,1936,Garmisch-Partenkirchen,GER
+1940 Winter Olympics,55,1940,Garmisch-Partenkirchen,GER
+1944 Winter Olympics,56,1944,Cortina d'Ampezzo,ITA
+1948 Winter Olympics,33,1948,Sankt Moritz,SUI
+1952 Winter Olympics,34,1952,Oslo,NOR
+1956 Winter Olympics,35,1956,Cortina d'Ampezzo,ITA
+1960 Winter Olympics,36,1960,Squaw Valley,USA
+1964 Winter Olympics,37,1964,Innsbruck,AUT
+1968 Winter Olympics,38,1968,Grenoble,FRA
+1972 Winter Olympics,39,1972,Sapporo,JPN
+1976 Winter Olympics,40,1976,Innsbruck,AUT
+1980 Winter Olympics,41,1980,Lake Placid,USA
+1984 Winter Olympics,42,1984,Sarajevo,YUG
+1988 Winter Olympics,43,1988,Calgary,CAN
+1992 Winter Olympics,44,1992,Albertville,FRA
+1994 Winter Olympics,45,1994,Lillehammer,NOR
+1998 Winter Olympics,46,1998,Nagano,JPN
+2002 Winter Olympics,47,2002,Salt Lake City,USA
+2006 Winter Olympics,49,2006,Torino,ITA
+2010 Winter Olympics,57,2010,Vancouver,CAN
+2014 Winter Olympics,58,2014,Sochi,RUS
+2018 Winter Olympics,60,2018,PyeongChang,KOR
+2022 Winter Olympics,62,2022,Beijing,CHN
+2026 Winter Olympics,72,2026,Milano-Cortina d'Ampezzo,ITA
+1956 Equestrian,48,1956,Stockholm,SWE
+1906 Intercalated,4,1906,Athina,GRE
