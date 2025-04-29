@@ -3,8 +3,8 @@
 <body>
 
 <h1>🏅 Olympic Data Analysis with SQL</h1>
-<p><strong>Author:</strong> Rahul Mahapatra</p>
-<p><strong>Domain:</strong> Sports Analytics | Data Engineering | SQL</p>
+<p><strong>Project by:</strong> Rahul Mahapatra</p>
+<p><strong>Domain:</strong> Sports Analytics | SQL</p>
 
 <div class="section">
   <h2>📌 Project Overview</h2>
